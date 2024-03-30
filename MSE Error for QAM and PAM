@@ -15,7 +15,7 @@ Q2_PAM = 32  # sample value for q
 Q3_PAM = 64  # sample value for q
 
 
-Repeat = 1000 #100000
+Repeat = 10000 #100000
 
 # Define SNR range in dB
 SNR_db = np.arange(-15, 20, 1)  # range from -15 dB to 20 dB
