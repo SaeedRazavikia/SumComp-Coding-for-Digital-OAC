@@ -7,7 +7,7 @@ from numpy.linalg import norm
 import src*
 
 
-Repeat = 1000 # number of tested samples
+Repeat = 10000 # number of tested samples
 
 # ----------------------------
 #   Arithmatic Mean Function 
